@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/vidit/codes/PROJECTS/chest-cancer-detection/ml-flow-test/mlruns/0/44c0e19d4c0744ff9c95dc0445a0a46b/artifacts
+end_time: 1716126588573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44c0e19d4c0744ff9c95dc0445a0a46b
+run_name: masked-flea-22
+run_uuid: 44c0e19d4c0744ff9c95dc0445a0a46b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716126585089
+status: 3
+tags: []
+user_id: vidit

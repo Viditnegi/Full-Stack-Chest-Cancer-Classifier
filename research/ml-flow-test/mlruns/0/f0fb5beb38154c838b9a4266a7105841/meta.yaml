@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/vidit/codes/PROJECTS/chest-cancer-detection/ml-flow-test/mlruns/0/f0fb5beb38154c838b9a4266a7105841/artifacts
+end_time: 1716126567831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0fb5beb38154c838b9a4266a7105841
+run_name: polite-chimp-14
+run_uuid: f0fb5beb38154c838b9a4266a7105841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716126564325
+status: 3
+tags: []
+user_id: vidit

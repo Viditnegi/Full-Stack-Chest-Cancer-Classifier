@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/vidit/codes/PROJECTS/chest-cancer-detection/ml-flow-test/mlruns/0/5a87cfd632584c029b3e6f841431daf4/artifacts
+end_time: 1716126550763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a87cfd632584c029b3e6f841431daf4
+run_name: loud-mule-11
+run_uuid: 5a87cfd632584c029b3e6f841431daf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716126547121
+status: 3
+tags: []
+user_id: vidit
