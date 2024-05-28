@@ -17,6 +17,6 @@ dagshub.init(repo_owner='Viditnegi', repo_name='Full-Stack-Chest-Cancer-Classifi
 
 
 ## TO DO:
-Script to automatically copy the trained model from artifacts to models folder.
-Run make, push, pull, run docker image.
-CI/CD deployment on aws.
+Script to automatically copy the trained model from artifacts to models folder.<br>
+Run make, push, pull, run docker image.<br>
+CI/CD deployment on aws.<br>
