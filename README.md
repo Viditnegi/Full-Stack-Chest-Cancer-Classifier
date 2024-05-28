@@ -1,19 +1,15 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
+# Full-Stack-Chest-Cancer-Classification-using-MLflow-DVC
 
-
-## Workflows
-
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
 
 
 
 dagshub.init(repo_owner='Viditnegi', repo_name='Full-Stack-Chest-Cancer-Classifier', mlflow=True)
 
+
+
+
+## DVC DAG
+![image](https://github.com/Viditnegi/Full-Stack-Chest-Cancer-Classifier/assets/106267998/7dfd3971-3263-4b07-a3c0-0d77babe27fa)
+
+## Ml-flow
+![image](https://github.com/Viditnegi/Full-Stack-Chest-Cancer-Classifier/assets/106267998/a80fdf19-bd92-48f9-b668-968d8b5b6cf4)
