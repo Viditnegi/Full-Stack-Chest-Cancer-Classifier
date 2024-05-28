@@ -14,3 +14,7 @@ dagshub.init(repo_owner='Viditnegi', repo_name='Full-Stack-Chest-Cancer-Classifi
 
 ## Ml-flow
 ![image](https://github.com/Viditnegi/Full-Stack-Chest-Cancer-Classifier/assets/106267998/a80fdf19-bd92-48f9-b668-968d8b5b6cf4)
+
+
+TO DO:
+Script to automatically copy the trained model from artifacts to models folder.
