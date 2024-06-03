@@ -55,7 +55,6 @@ class Evaluation:
         scores = {"loss": self.score[0], "accuracy": self.score[1]}
         save_json(path=Path("scores.json"), data=scores)
 
-    
     def log_into_mlflow(self):
         # dagshub.init(repo_owner='Viditnegi', repo_name='Full-Stack-Chest-Cancer-Classifier', mlflow=True)
         
