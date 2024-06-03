@@ -5,12 +5,8 @@
 
 dagshub.init(repo_owner='Viditnegi', repo_name='Full-Stack-Chest-Cancer-Classifier', mlflow=True)
 
-<<<<<<< HEAD
-## APP
-=======
 
 # APP
->>>>>>> e6365a151fe356d49784a88928728ba15c4ae8ed
 ![image](https://github.com/Viditnegi/Full-Stack-Chest-Cancer-Classifier/assets/106267998/bae7c972-7cbc-4635-90e2-fef72a9bde10)
 
 # DVC DAG
